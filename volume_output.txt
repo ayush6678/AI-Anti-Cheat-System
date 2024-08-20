@@ -1,0 +1,10 @@
+Second 1: 37.19 dB
+Second 2: 35.08 dB
+Second 3: 35.48 dB
+Second 4: 34.72 dB
+Second 5: 22.29 dB
+Second 6: 0 dB (silence)
+Second 7: 29.58 dB
+Second 8: 30.44 dB
+Second 9: 29.81 dB
+Second 10: 27.54 dB
